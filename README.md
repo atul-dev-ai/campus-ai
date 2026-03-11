@@ -9,10 +9,14 @@
 
 <br/>
 
+---
+
 ## 🚀 About The Project
 **CampusAI** is a premium, AI-powered university management system built for modern educational institutions. Designed with a multi-portal architecture, it provides dedicated, secure, and intuitive interfaces for Students, Faculty, and Administrators. 
 
 Built for high performance and seamless user experience, CampusAI automates tedious academic tasks using Artificial Intelligence, ranging from routine generation to document verification and lecture material creation.
+
+---
 
 ## ✨ Key Features
 
@@ -41,26 +45,29 @@ Built for high performance and seamless user experience, CampusAI automates tedi
 
 ---
 
-
 ## 🚀 Live Demo
 [Click here to view the live project](https://campus-ai.vercel.app) 
 
 <img src="preview.png">
 
+---
 
 ## ⚙️ Getting Started
 
 Follow these steps to set up the project locally on your machine.
 
 ### Prerequisites
-Make sure you have Node.js installed.
+Make sure you have `Node.js` installed.
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/campus-ai.git](https://github.com/your-username/campus-ai.git)
+   git clone https://github.com/atul-dev-ai/campus-ai.git
+   ```
+   ```bash
    cd campus-ai
+   ```
 
 2. **Install dependencies**
    ```bash
@@ -72,7 +79,11 @@ Create a `.env.local` file in the root directory and add your Supabase credentia
 
    ```Code snippet
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+   ```
+   
+   ```Code snippet
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+   ```
 
 4. **Run the development server**
    ```bash
@@ -80,7 +91,13 @@ Create a `.env.local` file in the root directory and add your Supabase credentia
    
 Open `http://localhost:3000` with your browser to see the result.
 
-## 👨‍💻 Developed By
-Atul Paul Full-Stack Developer
+## 👥 Meet the Team
+
+| Name | Role | Focus Area |
+| :--- | :--- | :--- |
+| **Atul Paul** | Lead Web Developer | Next.js Architecture, UI/UX, Full-Stack Integration |
+| **[2nd Member Name]** | AI Developer | Chatbot Engine, NLP, AI Automation Logic |
+| **[3rd Member Name]** | Lead Researcher | Academic Workflows, Data Modeling, Feature Ideation |
+
 
 "Building the future of campus management, one line of code at a time."
