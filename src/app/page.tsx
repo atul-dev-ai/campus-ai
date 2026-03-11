@@ -8,7 +8,7 @@ import Footer from "@/components/landing/Footer";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ArrowRight, Sparkles, Bot, Zap, LayoutDashboard } from "lucide-react";
-
+import { Variants } from "framer-motion";
 export default function Home() {
   // Framer Motion Variants for smooth staggered animations
   const containerVariants = {
@@ -19,7 +19,7 @@ export default function Home() {
     },
   };
 
-  const itemVariants = {
+  const itemVariants: Variants = {
     hidden: { opacity: 0, y: 30 },
     visible: {
       opacity: 1,
@@ -28,7 +28,7 @@ export default function Home() {
     },
   };
 
-  const floatingVariants = {
+  const floatingVariants: Variants = {
     animate: {
       y: [0, -15, 0],
       transition: { duration: 4, repeat: Infinity, ease: "easeInOut" },
