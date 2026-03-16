@@ -96,7 +96,7 @@ Open `http://localhost:3000` with your browser to see the result.
 | Name | Role | Focus Area |
 | :--- | :--- | :--- |
 | **Atul Paul** | Lead Web Developer | Next.js Architecture, UI/UX, Full-Stack Integration |
-| **Nafisa Tabassum** | AI Developer | Chatbot Engine, NLP, AI Automation Logic |
+| **Nafisa Tabassum** | Lead AI Developer | Chatbot Engine, NLP, AI Automation Logic |
 | **Shakila Alo** | Lead Researcher | Academic Workflows, Data Modeling, Feature Ideation |
 
 
