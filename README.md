@@ -46,7 +46,7 @@ Built for high performance and seamless user experience, CampusAI automates tedi
 ---
 
 ## 🚀 Live Demo
-[Click here to view the live project](https://campus-ai.vercel.app) 
+[Click here to view the live project](https://campus-ai-diu.vercel.app) 
 
 <img src="preview.png">
 
