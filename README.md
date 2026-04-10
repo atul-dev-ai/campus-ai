@@ -91,13 +91,13 @@ Create a `.env.local` file in the root directory and add your Supabase credentia
    
 Open `http://localhost:3000` with your browser to see the result.
 
-## 👥 Meet the Team
+## 👨‍💻 Author
+Atul Paul
 
-| Name | Role | Focus Area |
-| :--- | :--- | :--- |
-| **Atul Paul** | Lead Web Developer | Next.js Architecture, UI/UX, Full-Stack Integration |
-| **Nafisa Tabassum** | Lead AI Developer | Chatbot Engine, NLP, AI Automation Logic |
-| **Shakila Alo** | Lead Researcher | Academic Workflows, Data Modeling, Feature Ideation |
+GitHub: @atul-dev-ai
+
+Project Link: [https://msa-diu-website.vercel.app](https://campus-ai-diu.vercel.app/)
+
 
 
 "Building the future of campus management, one line of code at a time."
